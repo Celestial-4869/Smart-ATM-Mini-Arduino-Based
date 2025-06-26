@@ -104,3 +104,4 @@ smart-atm-mini/
 
 ## 📜 License
 This project is for academic and educational purposes.
+
