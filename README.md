@@ -81,20 +81,6 @@ Mô phỏng hệ thống máy ATM mini sử dụng Arduino. Hệ thống cho ph�
 
 ---
 
-## 📁 Project Structure
-```
-smart-atm-mini/
-├── iot_atm.ino         # Arduino source code
-├── README.md           # Project description (you are here)
-├── docs/
-│   └── BaoCaoDuAn.docx # Original project report
-├── images/
-│   ├── schematic.png
-│   └── real-circuit.jpg
-```
-
----
-
 ## 📜 License
 This project is for academic and educational purposes.
 
