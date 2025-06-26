@@ -82,8 +82,7 @@ Mô phỏng hệ thống máy ATM mini sử dụng Arduino. Hệ thống cho ph�
 ---
 
 ## 🔗 Demo & Links
-- Mô phỏng Tinkercad *(nếu có)*
-- [Video demo Google Drive](https://drive.google.com)
+- Mô phỏng Tinkercad
 - Slide báo cáo: `Project IOT Slide.pdf`
 
 ---
